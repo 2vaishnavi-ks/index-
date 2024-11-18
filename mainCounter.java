@@ -20,5 +20,6 @@ class mainCounter
                    t2.start();
                    
                    System.out.println("final count is:"+ counter.count);
+                   //fgjhorijtihjkfgmghokorthjhmhlmk
          }
 }
